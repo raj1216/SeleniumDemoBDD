@@ -11,7 +11,7 @@ Feature: Login Feature
 
 @sanity
 Scenario: Add product to cart and order it successfully
-And enter Email "standard_user" and Password "secret_sauce"
+And enter Email "standard_use" and Password "secret_sauce"
 And click login
 And add "Sauce Labs Backpack" to cart
 And click on cart button

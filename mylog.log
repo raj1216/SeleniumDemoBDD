@@ -8,3 +8,27 @@
 2023-10-30 19:12:49 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\abinash.dhangdamajhi\.cache\selenium\chromedriver\win64\118.0.5993.70\chromedriver.exe
 2023-10-30 19:14:00 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 118.0.5993.70 (resolved driver for Chrome 118)
 2023-10-30 19:14:00 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\abinash.dhangdamajhi\.cache\selenium\chromedriver\win64\118.0.5993.70\chromedriver.exe
+2023-10-31 17:20:40 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 118.0.5993.70 (resolved driver for Chrome 118)
+2023-10-31 17:20:40 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\abinash.dhangdamajhi\.cache\selenium\chromedriver\win64\118.0.5993.70\chromedriver.exe
+2023-10-31 17:20:50 - org.asynchttpclient.netty.handler.WebSocketHandler -WARN - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:254)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2023-10-31 17:23:43 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 118.0.5993.70 (resolved driver for Chrome 118)
+2023-10-31 17:23:43 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\abinash.dhangdamajhi\.cache\selenium\chromedriver\win64\118.0.5993.70\chromedriver.exe
+2023-10-31 17:25:14 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 118.0.5993.70 (resolved driver for Chrome 118)
+2023-10-31 17:25:14 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\abinash.dhangdamajhi\.cache\selenium\chromedriver\win64\118.0.5993.70\chromedriver.exe
+2023-10-31 17:25:49 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 118.0.5993.70 (resolved driver for Chrome 118)
+2023-10-31 17:25:49 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\abinash.dhangdamajhi\.cache\selenium\chromedriver\win64\118.0.5993.70\chromedriver.exe

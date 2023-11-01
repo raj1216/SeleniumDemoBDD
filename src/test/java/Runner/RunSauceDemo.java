@@ -12,7 +12,8 @@ import io.cucumber.junit.CucumberOptions;
 		glue={"StepDefinition","Hooks"},
 		monochrome=true,
 		tags="@sanity",
-		plugin= {"pretty", "html:target/cucumber_reports.html"}
+		plugin= {"pretty", "html:target/cucumber_reports.html",
+		"com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:"}
 		)
 
 public class RunSauceDemo
