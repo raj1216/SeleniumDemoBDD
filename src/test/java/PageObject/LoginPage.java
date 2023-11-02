@@ -26,11 +26,11 @@ public class LoginPage
 	
 	
 	//METHODS
-	public void enterEmail(String email) 
+	public void enterUsername(String username) 
 	{
 		
 		Email.clear();
-		Email.sendKeys(email);
+		Email.sendKeys(username);
 	}
 	
 	public void enterPassword(String pwd) 

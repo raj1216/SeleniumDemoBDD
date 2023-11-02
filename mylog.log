@@ -32,3 +32,7 @@ java.net.SocketException: Connection reset
 2023-10-31 17:25:14 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\abinash.dhangdamajhi\.cache\selenium\chromedriver\win64\118.0.5993.70\chromedriver.exe
 2023-10-31 17:25:49 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 118.0.5993.70 (resolved driver for Chrome 118)
 2023-10-31 17:25:49 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\abinash.dhangdamajhi\.cache\selenium\chromedriver\win64\118.0.5993.70\chromedriver.exe
+2023-11-02 16:55:00 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 118.0.5993.70 (resolved driver for Chrome 118)
+2023-11-02 16:55:00 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\abinash.dhangdamajhi\.cache\selenium\chromedriver\win64\118.0.5993.70\chromedriver.exe
+2023-11-02 18:16:20 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 118.0.5993.70 (resolved driver for Chrome 118)
+2023-11-02 18:16:20 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\abinash.dhangdamajhi\.cache\selenium\chromedriver\win64\118.0.5993.70\chromedriver.exe
