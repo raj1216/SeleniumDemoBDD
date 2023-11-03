@@ -14,6 +14,8 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 public class BaseClass
 {
 	
+	//Created Variables
+	
 	public WebDriver driver;
 	public static Logger log;
 	
