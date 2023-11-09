@@ -32,14 +32,13 @@ public class Login_StepDef extends DriverFactory
 		orangeloginPage.enterPassword(hooks.getPassword());
 		
 	}
-
 	@When("click login")
-	public void click_login() 
+	public void click_login()
 	{
 		orangeloginPage.clickLoginButton();
 	}
 
-	
+
 	@When("user clicks on Logout link")
 	public void user_clicks_on_logout_link()
 	{

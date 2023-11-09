@@ -1,5 +1,6 @@
 package PageObject;
 
+import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.remote.RemoteWebDriver;
@@ -9,14 +10,14 @@ import org.openqa.selenium.support.PageFactory;
 public class OrangeHRM_LoginPage
 {
 	WebDriver driver;
-	
+
 	//CONSTRUCTOR
 	public OrangeHRM_LoginPage(WebDriver driver)
 	{
 		this.driver=driver;
 		PageFactory.initElements(driver, this);
 	}
-	
+
 	
 	//LOCATORS
 	@FindBy(name="username") public WebElement txt_username;
@@ -27,19 +28,22 @@ public class OrangeHRM_LoginPage
 	
 	//@FindBy(xpath="//a[text()='Logout']") public WebElement btn_logout;
 	
-	
+	public  void highlightElement(WebElement webElement){
+		JavascriptExecutor js = (JavascriptExecutor) driver;
+		js.executeScript("arguments[0].style.border='3px solid green'", webElement);
+	}
 	//METHODS
 	public void enterUsername(String user_name) 
 	{
-		
+		highlightElement(txt_username);
 		
 		txt_username.sendKeys(user_name);
 	}
 	
 	public void enterPassword(String pwd) 
 	{
-		
-		
+
+		highlightElement(txt_password);
 		txt_password.sendKeys(pwd);
 	}
 	

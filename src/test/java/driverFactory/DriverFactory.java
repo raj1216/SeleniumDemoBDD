@@ -39,7 +39,7 @@ public class DriverFactory {
     
     if(browser.equals("chrome"))
     {
-        WebDriverManager.chromedriver().setup();
+      //  WebDriverManager.chromedriver().setup();
         tlDriver.set(new ChromeDriver());
     }
     
@@ -57,7 +57,8 @@ public class DriverFactory {
   
     getDriver().manage().deleteAllCookies();
     getDriver().manage().window().maximize();
-    getDriver().manage().timeouts().implicitlyWait(Duration.ofSeconds(2));
+    getDriver().manage().timeouts().implicitlyWait(Duration.ofSeconds(5));
+    getDriver().manage().timeouts().pageLoadTimeout(Duration.ofSeconds(10));
     return getDriver();
 }
     

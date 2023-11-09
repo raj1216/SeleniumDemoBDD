@@ -36,3 +36,107 @@ java.net.SocketException: Connection reset
 2023-11-02 16:55:00 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\abinash.dhangdamajhi\.cache\selenium\chromedriver\win64\118.0.5993.70\chromedriver.exe
 2023-11-02 18:16:20 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 118.0.5993.70 (resolved driver for Chrome 118)
 2023-11-02 18:16:20 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\abinash.dhangdamajhi\.cache\selenium\chromedriver\win64\118.0.5993.70\chromedriver.exe
+2023-11-07 10:27:08 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-07 10:27:08 - io.github.bonigarcia.wdm.online.Downloader -INFO - Downloading https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/119.0.6045.105/win64/chromedriver-win64.zip
+2023-11-07 10:27:13 - io.github.bonigarcia.wdm.online.Downloader -INFO - Extracting driver from compressed file chromedriver-win64.zip
+2023-11-07 10:27:14 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\rajkumar.vasant\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-07 10:27:23 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-07 10:27:23 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\rajkumar.vasant\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-07 10:34:42 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-07 10:34:42 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\rajkumar.vasant\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-07 10:34:50 - org.apache.pdfbox.pdmodel.font.FileSystemFontProvider -WARN - New fonts found, font cache will be re-built
+2023-11-07 10:34:50 - org.apache.pdfbox.pdmodel.font.FileSystemFontProvider -WARN - Building on-disk font cache, this may take a while
+2023-11-07 10:34:51 - org.apache.pdfbox.pdmodel.font.FileSystemFontProvider -WARN - Finished building on-disk font cache, found 181 fonts
+2023-11-07 10:39:24 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-07 10:39:24 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\rajkumar.vasant\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-07 10:40:43 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-07 10:40:43 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\rajkumar.vasant\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-07 15:57:11 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-07 15:57:11 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\rajkumar.vasant\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-07 15:58:19 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-07 15:58:19 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\rajkumar.vasant\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-07 16:00:43 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-07 16:00:43 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\rajkumar.vasant\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-07 16:02:19 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-07 16:02:19 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\rajkumar.vasant\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-07 16:04:22 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-07 16:04:22 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\rajkumar.vasant\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-07 16:06:54 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-07 16:06:54 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\rajkumar.vasant\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-07 17:33:16 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-07 17:33:16 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\rajkumar.vasant\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-07 17:34:56 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-07 17:34:56 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\rajkumar.vasant\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-07 17:39:27 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-07 17:39:28 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\rajkumar.vasant\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-07 17:41:03 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-07 17:41:03 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\rajkumar.vasant\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-07 17:44:33 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-07 17:44:33 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\rajkumar.vasant\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-07 17:46:15 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-07 17:46:15 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\rajkumar.vasant\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-07 17:48:24 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-07 17:48:24 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\rajkumar.vasant\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-07 17:50:13 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-07 17:50:13 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\rajkumar.vasant\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-07 17:52:36 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-07 17:52:36 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\rajkumar.vasant\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-07 18:05:26 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-07 18:05:26 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\rajkumar.vasant\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-07 18:07:21 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-07 18:07:21 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\rajkumar.vasant\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-07 18:08:57 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-07 18:08:57 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\rajkumar.vasant\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-07 18:10:24 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-07 18:10:24 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\rajkumar.vasant\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-07 18:12:28 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-07 18:12:28 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\rajkumar.vasant\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-07 18:13:02 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-07 18:13:02 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\rajkumar.vasant\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-07 18:13:32 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-07 18:13:32 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\rajkumar.vasant\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-07 18:14:09 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-07 18:14:09 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\rajkumar.vasant\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-07 18:14:48 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-07 18:14:48 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\rajkumar.vasant\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-08 09:37:53 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-08 09:37:53 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\rajkumar.vasant\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-08 09:38:02 - org.asynchttpclient.netty.handler.WebSocketHandler -WARN - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:401)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:434)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:254)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+2023-11-08 09:38:15 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-08 09:38:15 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\rajkumar.vasant\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-08 10:54:41 - org.apache.hc.client5.http.impl.classic.HttpRequestRetryExec -INFO - Recoverable I/O exception (java.net.SocketException) caught when processing request to {s}->https://raw.githubusercontent.com:443
+2023-11-08 10:54:41 - io.github.bonigarcia.wdm.versions.VersionDetector -WARN - Error reading commands.properties, using local instead
+2023-11-08 10:54:42 - org.apache.hc.client5.http.impl.classic.HttpRequestRetryExec -INFO - Recoverable I/O exception (java.net.SocketException) caught when processing request to {s}->https://googlechromelabs.github.io:443
+2023-11-08 10:54:42 - io.github.bonigarcia.wdm.versions.VersionDetector -WARN - Exception reading CfT URL ('https://googlechromelabs.github.io/chrome-for-testing/known-good-versions-with-downloads.json') to get version of chromedriver (Permission denied: no further information)
+2023-11-08 10:54:42 - org.apache.hc.client5.http.impl.classic.HttpRequestRetryExec -INFO - Recoverable I/O exception (java.net.SocketException) caught when processing request to {s}->https://googlechromelabs.github.io:443
+2023-11-08 10:54:42 - io.github.bonigarcia.wdm.versions.VersionDetector -WARN - Exception reading https://googlechromelabs.github.io/chrome-for-testing/LATEST_RELEASE_119 to get latest version of chromedriver (Permission denied: no further information)
+2023-11-08 10:54:42 - io.github.bonigarcia.wdm.versions.VersionDetector -WARN - Error reading versions.properties, using local instead
+2023-11-08 10:54:42 - org.apache.hc.client5.http.impl.classic.HttpRequestRetryExec -INFO - Recoverable I/O exception (java.net.SocketException) caught when processing request to {s}->https://googlechromelabs.github.io:443
+2023-11-08 10:54:42 - io.github.bonigarcia.wdm.versions.VersionDetector -WARN - Exception reading CfT URL ('https://googlechromelabs.github.io/chrome-for-testing/last-known-good-versions-with-downloads.json') to get version of chromedriver (Permission denied: no further information)
+2023-11-08 10:54:42 - org.apache.hc.client5.http.impl.classic.HttpRequestRetryExec -INFO - Recoverable I/O exception (java.net.SocketException) caught when processing request to {s}->https://googlechromelabs.github.io:443
+2023-11-08 10:54:42 - io.github.bonigarcia.wdm.versions.VersionDetector -WARN - Exception reading https://googlechromelabs.github.io/chrome-for-testing/LATEST_RELEASE to get latest version of chromedriver (Permission denied: no further information)
+2023-11-08 10:54:42 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Reading https://chromedriver.storage.googleapis.com/ to seek chromedriver
+2023-11-08 10:54:44 - io.github.bonigarcia.wdm.online.Downloader -INFO - Downloading https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_win32.zip
+2023-11-08 10:54:47 - io.github.bonigarcia.wdm.online.Downloader -INFO - Extracting driver from compressed file chromedriver_win32.zip
+2023-11-08 10:54:48 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\rajkumar.vasant\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+2023-11-08 10:58:26 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 114.0.5735.90 (resolved driver for Chrome 119)
+2023-11-08 10:58:26 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\rajkumar.vasant\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+2023-11-08 12:39:36 - StepDefinition.PimStepDef -ERROR - not able to locate element
+2023-11-08 12:42:46 - StepDefinition.PimStepDef -ERROR - not able to locate element
+2023-11-08 14:03:07 - StepDefinition.PimStepDef -ERROR - not able to locate element
+2023-11-08 14:05:22 - StepDefinition.PimStepDef -ERROR - not able to locate element
